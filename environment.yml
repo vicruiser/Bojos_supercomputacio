@@ -1,0 +1,9 @@
+channels:
+  - conda-forge
+dependencies:
+  - python=3
+  - matplotlib
+  - scipy
+  - numpy
+  - pip:
+      - jupyter-server-proxy
