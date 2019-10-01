@@ -5,5 +5,3 @@ dependencies:
   - matplotlib
   - scipy
   - numpy
-  - pip:
-      - jupyter-server-proxy
