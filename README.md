@@ -5,5 +5,12 @@
 
 # Hands on parte III
 
-Acceder al link: https://rstudio.cloud/project/385639
-Hay que crearse una cuenta. 
+## Script
+Hay que crearse una cuenta:
+Acceder al link: https://rstudio.cloud/project/385639 .
+
+
+
+## Matrix de confusión
+https://rchaeologist.shinyapps.io/randomforest_skcm/
+
